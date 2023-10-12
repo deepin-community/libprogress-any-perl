@@ -1,0 +1,8 @@
+libprogress-any-perl (0.214-1) unstable; urgency=medium
+
+  From upstream Changes for 0.211:
+
+  [Incompatible change] update(): Rename 'level' argument to 'priority'.
+  High-priority updates are now not frequency-throttled.
+
+ -- gregor herrmann <gregoa@debian.org>  Fri, 11 May 2018 20:09:15 +0200
